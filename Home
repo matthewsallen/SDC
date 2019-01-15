@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <script>
+      dataLayer = [{
+      }];
+    </script>        
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PXQBQ2');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <meta name="application-name" content="&nbsp;" />
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+            <title>Seattle Design Commission - DesignCommission | seattle.gov</title>
+            <meta name="description" content="Seattle Design Commission" />
+            <meta name="keywords" content="" />
+            <meta name="robots" content="" />
+                <base href="http://www.seattle.gov/" />
+
+    <meta charset="utf-8">
+     
+    
+                    <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/jquery-ui-1.10.3.css"  />  
+                    <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/bootstrap.min.css"  />  
+                    <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/slick.min_slick-theme.min.css"  />  
+                    <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/responsive2015.min.css"  />  
+                    <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/shared2016.min.css"  />  
+                    <script   type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js" crossorigin=anonymous integrity=sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ=></script>
+                    <script   type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js" crossorigin=anonymous integrity=sha256-lnH4vnCtlKU2LmD0ZW1dU7ohTTKrcKP50WA9fa350cE=></script>
+                    <script   type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin=anonymous integrity=sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS></script>
+                    <script  defer type="text/javascript" src="https://use.fontawesome.com/releases/v5.2.0/js/all.js" crossorigin=anonymous integrity=sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy></script>
+                    <script type="text/javascript" src="/assets/prebuilt/js/jquery.localScroll.min.js"></script>
+                    <script type="text/javascript" src="/assets/prebuilt/js/application_bootstrap.min_shared2016.min_script2015_082516.min.js"></script>
+                    <script   type="text/javascript" src="//content.jwplatform.com/libraries/Ctujouh4.js"  ></script>
+                    <script   type="text/javascript" src="//platform.twitter.com/widgets.js"  ></script>
+                    <script type="text/javascript" src="/assets/prebuilt/js/jquery.easy-autocomplete.min.js"></script>
+                    <script type="text/javascript" src="/assets/prebuilt/js/SearchResults.js"></script>
+                    <script   type="text/javascript" src="//www.trumba.com/scripts/spuds.js"  ></script>
+                    <script type="text/javascript" src="/assets/prebuilt/js/slick.min.js"></script>
+    
+</head>
+
+<body>
+
+<footer>
+
+
+        <div id="departmentContactFooterWrapper">
+            <div id="departmentContactFooter" class="container">
+                <div id="deptFootLogoTitleContainer" class="row">
+                    <div class="col-xs-12 col-sm-6" id="deptFootLogoTitle">
+                        <img class="img-responsive pull-left" src='/assets/images/2015_IMG/logo_bw.png' alt="seattle.gov logo" />
+                        <div class="deptFootTitleWrapper pull-left">
+                            <h1 class="footerSeattleText">Seattle</h1>
+                                <div class="deptFooterTitle"><a href='designcommission' title="Footer — Seattle Design Commission">Seattle Design Commission</a></div>
+                        </div>
+                    </div>
+                    <div id="deptFootContactContainer" class="col-xs-12 col-sm-6">
+                        <div id="deptFootContactWrapper" class="pull-right">
+                                <div class="phoneFaxAddressWrapper">
+            <div class="deptFootPhone">
+                <label>Phone: </label><a href="tel:206-684-0435">206-684-0435</a>
+            </div>
+                            <div class="deptFootAddresses">
+                <label id="deptFootStreetLabel" class="footerAddressLabel">Address: </label>
+                    <button class="addressPopout" role="button" data-toggle="collapse" href="#footerOffice" title="Expand the office address for Seattle Design Commission" area-expanded="false" aria-controls="footerOffice">Office</button>
+                                    <span>| </span>
+                                    <button class="addressPopout" role="button" data-toggle="collapse" href="#footerMailing" title="Expand the mailing address for Seattle Design Commission" area-expanded="false" aria-controls="footerMailing">Mailing</button>
+            </div>
+    </div>
+
+                            
+                        </div>
+                            <div class="footerPhysicalAddress pull-right collapse" id="footerOffice">
+        <button aria-label="Close Office Address" class="closeAddress pull-right">
+            <i class="fas fa-times fa-2x" title="Close" aria-label="Close icon"></i>
+        </button>
+        <strong>Street Address:</strong><br />
+Seattle City Hall<br />
+        600 4th Avenue <br />
+5th Floor <br />
+        Seattle, 
+        WA 
+        98124        <br />
+    </div>
+
+                            <div class="footerMailingAddress pull-right collapse" id="footerMailing">
+        <button aria-label="Close Mailing Address" class="closeAddress pull-right">
+            <i class="fas fa-times fa-2x" title="Close" aria-label="Close icon"></i>
+        </button>
+        <strong>Mailing Address:</strong><br />
+P.O. Box 94788<br />
+Seattle, 
+WA 
+98124-7088
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        </footer>
+
+
+
+
+</div>
+
+
+            </div>
+
+<footer role="contentinfo" >    
+    <div class="clearfix"></div>   
+    <div class="footerBottom15Wrapper">
+    <div class="container" id="footerBottom15">
+    <div class="row borderBottomNone" >
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 footerContainer">
+                <a href="americans-with-disabilities-act"    >ADA Notice</a>
+
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 footerContainer">
+                <a href="tech/initiatives/privacy/about-the-privacy-program"    >Privacy Policy</a>
+
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 footerContainer">
+                <a href="civilrights/civil-rights/title-vi-notice-of-nondiscrimination"    >Notice of Nondiscrimination</a>
+
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-12 col-lg-3 footerContainer">
+            &#169; Copyright 1995-2019 City of Seattle
+        </div>
+    </div>
+    </div> 
+    </div>
+</footer>
+
+</body>
+
+
