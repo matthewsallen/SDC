@@ -1,5 +1,7 @@
+
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
 <head>
     <script>
       dataLayer = [{
@@ -39,8 +41,8 @@
     <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
     <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
     <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
-            <title>Seattle Design Commission - DesignCommission | seattle.gov</title>
-            <meta name="description" content="Seattle Design Commission" />
+            <title>Project Archive - DesignCommission | seattle.gov</title>
+            <meta name="description" content="Project Archive" />
             <meta name="keywords" content="" />
             <meta name="robots" content="" />
                 <base href="http://www.seattle.gov/" />
@@ -50,27 +52,244 @@
     
                     <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/jquery-ui-1.10.3.css"  />  
                     <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/bootstrap.min.css"  />  
-                    <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/slick.min_slick-theme.min.css"  />  
                     <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/responsive2015.min.css"  />  
                     <link rel="stylesheet" type="text/css" href="/assets/prebuilt/css/shared2016.min.css"  />  
-                    <script   type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js" crossorigin=anonymous integrity=sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ=></script>
-                    <script   type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js" crossorigin=anonymous integrity=sha256-lnH4vnCtlKU2LmD0ZW1dU7ohTTKrcKP50WA9fa350cE=></script>
-                    <script   type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin=anonymous integrity=sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS></script>
-                    <script  defer type="text/javascript" src="https://use.fontawesome.com/releases/v5.2.0/js/all.js" crossorigin=anonymous integrity=sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy></script>
+                    <script   type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js" crossorigin=anonymous integrity=sha256-
+
+wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ=></script>
+                    <script   type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js" crossorigin=anonymous integrity=sha256-
+
+lnH4vnCtlKU2LmD0ZW1dU7ohTTKrcKP50WA9fa350cE=></script>
+                    <script   type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin=anonymous 
+
+integrity=sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS></script>
+                    <script  defer type="text/javascript" src="https://use.fontawesome.com/releases/v5.2.0/js/all.js" crossorigin=anonymous 
+
+integrity=sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy></script>
                     <script type="text/javascript" src="/assets/prebuilt/js/jquery.localScroll.min.js"></script>
-                    <script type="text/javascript" src="/assets/prebuilt/js/application_bootstrap.min_shared2016.min_script2015_082516.min.js"></script>
+                    <script type="text/javascript" 
+
+src="/assets/prebuilt/js/application_bootstrap.min_shared2016.min_script2015_082516.min.js"></script>
                     <script   type="text/javascript" src="//content.jwplatform.com/libraries/Ctujouh4.js"  ></script>
                     <script   type="text/javascript" src="//platform.twitter.com/widgets.js"  ></script>
                     <script type="text/javascript" src="/assets/prebuilt/js/jquery.easy-autocomplete.min.js"></script>
                     <script type="text/javascript" src="/assets/prebuilt/js/SearchResults.js"></script>
                     <script   type="text/javascript" src="//www.trumba.com/scripts/spuds.js"  ></script>
-                    <script type="text/javascript" src="/assets/prebuilt/js/slick.min.js"></script>
     
+</head>
+<body >
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PXQBQ2"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+<!--wrapper start-->
+    <a href="#content" class="sr-only sr-only-focusable" id="skipToMain">Skip to main content</a>
+
+
+
+
+    <header role="banner">
+        <div id="header">
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header" id="seagovNavbar">
+                                <div class="navbar-brand" title="Seattle.gov logo">
+                                    <a href='//www.seattle.gov' class="logohome exec">
+                                        Seattle.gov
+                                        
+                                    </a>
+                                </div>
+        <span class="seattleMayor"></span>
+                        <p class="navbar-text navbar-right" id="mainMenuToggle" title="Main Navigation Menu" tabindex="0">
+                            <i class="fas fa-bars fa-lg" title="Main Navigation Menu" aria-label="Main Navigation Menu" tabindex="0"></i>
+                        </p>
+                        <p class="navbar-text pull-right" id="searchIcon" title="Search" data-toggle="modal" data-target="#searchModal" 
+
+tabindex="0"><i class="fas fa-search fa-lg" title="Search Icon" aria-label="Search Icon" tabindex="0"></i></p>
+
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                </div><!-- /.container-fluid -->
+            </nav>
+            <nav role="navigation" id="slideMenuNav">
+                <ul id="seagovMenuDesktop" class="list-group slidemenu-right">
+                    <li class="list-group-item first">
+                        <button id="mainMenuClose" aria-label="Close Main Menu">
+                            <i class="fas fa-times fa-4x" title="Close Icon" aria-label="Close icon"></i>
+                        </button>
+                    </li>
+                            <li class="list-group-item">    <a href="/services-and-information"    title="Main Menu � Services & 
+
+Information">Services & Information</a>
+</li>
+                            <li class="list-group-item">    <a href="/elected-officials"    title="Main Menu � Elected Officials">Elected 
+
+Officials</a>
+</li>
+                            <li class="list-group-item">    <a href="/city-departments-and-agencies"    title="Main Menu � 
+
+Departments">Departments</a>
+</li>
+                            <li class="list-group-item">    <a href="/visiting-seattle"    title="Main Menu � Visiting Seattle">Visiting Seattle</a>
+</li>
+                            <li class="list-group-item">    <a href="https://news.seattle.gov"    title="Main Menu � 
+
+News.Seattle.Gov">News.Seattle.Gov</a>
+</li>
+                            <li class="list-group-item">    <a href="/event-calendar"    title="Main Menu � Event Calendar">Event Calendar</a>
+</li>
+                    <li class="list-group-item last"></li>
+                </ul>
+                <ul id="seagovMenuMobile" class="list-group slidemenu-right" data-departmentname="DesignCommission" data-
+
+departmenturl="designcommission">
+                    <li class="list-group-item first">
+                        <button id="mainMenuCloseMobile" aria-label="Close icon">
+                            <i class="fas fa-times" title="Close Icon" aria-label="Close Icon"></i>
+                        </button>
+                            <form role="search" id="googleSearch_M" method="get" action='searchresults' class="navbar-form">
+        <div class="input-group">
+            <input type="text" class="form-control" title="Search" id="searchInput_M" type="text" name="terms" size="18" maxlength="255" value="" 
+
+placeholder="Search">
+            <span class="input-group-btn">
+                <button id="searchButton_M" type="submit" class="btn btn-primary btn-default" onclick="document.forms['googleSearch_M'].submit()"><i 
+
+class="fas fa-search fa-2x" title="Search Icon" aria-label="Search Icon"></i></button>
+            </span>
+            <input type="hidden" name="site" value="seagov" />  
+            
+        </div>
+        
+    </form>
+
+                    </li>
+                    
+                                <li class="seagovHeaderLinksMobile list-group-item navItem" data-parenttarget="Seattle.gov">    <a href="/services-
+
+and-information"    title="Main Menu Mobile � Seattle.gov Services & Information">Services & Information</a>
+</li>
+            <li class="seagovHeaderLinksMobile list-group-item navItem" data-parenttarget="Seattle.gov">    <a href="/elected-officials"    
+
+title="Main Menu Mobile � Seattle.gov Elected Officials">Elected Officials</a>
+</li>
+            <li class="seagovHeaderLinksMobile list-group-item navItem" data-parenttarget="Seattle.gov">    <a href="/city-departments-and-agencies" 
+
+   title="Main Menu Mobile � Seattle.gov Departments">Departments</a>
+</li>
+            <li class="seagovHeaderLinksMobile list-group-item navItem" data-parenttarget="Seattle.gov">    <a href="/visiting-seattle"    
+
+title="Main Menu Mobile � Seattle.gov Visiting Seattle">Visiting Seattle</a>
+</li>
+            <li class="seagovHeaderLinksMobile list-group-item navItem" data-parenttarget="Seattle.gov">    <a href="https://news.seattle.gov"    
+
+title="Main Menu Mobile � Seattle.gov News.Seattle.Gov">News.Seattle.Gov</a>
+</li>
+            <li class="seagovHeaderLinksMobile list-group-item navItem" data-parenttarget="Seattle.gov">    <a href="/event-calendar"    title="Main 
+
+Menu Mobile � Seattle.gov Event Calendar">Event Calendar</a>
+</li>
+                    <li class="list-group-item last"></li>
+                </ul>
+            </nav>
+        </div>      <!-- SEATTLE.GOV HEADER ENDS -->
+
+    
+
 </head>
 
 <body>
 
-<footer>
+
+
+      <h1 id="deptTitle" class="deptName">        
+            <a href="designcommission"  class="active"  >Seattle Design Commission</a>
+
+                <span class="director">Michael Jenkins, Executive Director</span>
+
+      </h1>
+
+  <div id="deptBreadCrumbsWrapper">
+            <div class="container">
+<div class="row" id="deptBreadcrumbsContainer">
+      <div id="deptBreadcrumbs" class="col-xs-12 col-sm-9" > 
+     
+            <a href="/"><i class="fas fa-home fa-2x" title="home page icon" aria-label="Home page icon"></i></a> /
+         Home 
+                               
+    </div>
+          <div class="col-sm-3 col-xs-12" id="deptSocialMedia">
+
+          </div> 
+    </div>
+
+
+            </div>	          
+        </div>    
+
+        <div id="deptTopNav" class="row">
+            <ul role="navigation">
+                        <li class='deptTopNavItem4'>
+    <a href="designcommission/about-us"    >About Us</a>
+
+                        </li>
+                        <li class='deptTopNavItem4'>
+    <a href="designcommission/project-reviews"    >Project Reviews</a>
+
+                        </li>
+                        <li class='deptTopNavItem4'>
+    <a href="designcommission/submit-a-project"    >Submit a Project</a>
+
+                        </li>
+                        <li class='deptTopNavItem4'>
+    <a href="designcommission/get-involved"  class="last"  >Get Involved</a>
+
+                        </li>
+            </ul>
+        </div>
+        </div>
+    </div>
+                    <div class="fakeSection">
+
+<div class="featureWrapper" data-
+
+backgroundurl='http://www.moma.org/media/W1siZiIsIjI2MzM3OSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f0200f4a45cca89a'>
+    <div class="container">
+        <div class="row borderBottomNone">
+
+<h1 style="background-color:white">
+This website will show exemplary projects selected by the SDC and the design community as positive contributions to Seattle's public realm.
+</h1>
+
+
+<p style="background-color:white">
+Lorem ipsum dolor sit amet, pro ut modo intellegat accommodare. Sed ancillae molestiae et. Hinc bonorum officiis mel ne, atqui atomorum nec no, per 
+
+ex omnesque deseruisse definiebas. Prima brute fabellas ius ut.
+
+Mei quodsi invidunt ei, stet possim singulis no eum, has laudem complectitur te. Brute principes posidonium sed ex, quo at clita scripserit 
+
+scriptorem, probatus adolescens pri eu. Exerci inermis detracto cu nec, autem legimus ei has. In nam veri copiosae.
+
+Persecuti honestatis cotidieque sea id. Suavitate incorrupte sit at. Mel utinam minimum quaerendum cu. Congue lobortis vis ei. Pro cu libris 
+
+iracundia consetetur, vim soluta intellegat an. Ad qui fuisset propriae mediocritatem, eum te liber tation.
+
+Mea mundi neglegentur suscipiantur te, eos eripuit impedit in. Ad mucius deserunt sit, eos porro detracto ad. Solum partem dicunt sed ne. Dico purto 
+
+dissentiunt in mea, ei senserit corrumpit vim, eam liber rationibus an. Luptatum constituto at cum, qui reque iuvaret urbanitas ut.
+
+In mei inani option denique. Clita utroque eam te. Per ex evertitur mediocritatem, nec nulla pericula id. Esse reque omittam no eum. Laudem viderer 
+
+adipiscing mea id, molestie antiopam an vel, est ut viris prompta repudiare. Iudico primis cu vis.
+</p>
+
+    <footer>
 
 
         <div id="departmentContactFooterWrapper">
@@ -80,7 +299,9 @@
                         <img class="img-responsive pull-left" src='/assets/images/2015_IMG/logo_bw.png' alt="seattle.gov logo" />
                         <div class="deptFootTitleWrapper pull-left">
                             <h1 class="footerSeattleText">Seattle</h1>
-                                <div class="deptFooterTitle"><a href='designcommission' title="Footer — Seattle Design Commission">Seattle Design Commission</a></div>
+                                <div class="deptFooterTitle"><a href='designcommission' title="Footer — Seattle Design Commission">Seattle Design 
+
+Commission</a></div>
                         </div>
                     </div>
                     <div id="deptFootContactContainer" class="col-xs-12 col-sm-6">
@@ -91,9 +312,13 @@
             </div>
                             <div class="deptFootAddresses">
                 <label id="deptFootStreetLabel" class="footerAddressLabel">Address: </label>
-                    <button class="addressPopout" role="button" data-toggle="collapse" href="#footerOffice" title="Expand the office address for Seattle Design Commission" area-expanded="false" aria-controls="footerOffice">Office</button>
+                    <button class="addressPopout" role="button" data-toggle="collapse" href="#footerOffice" title="Expand the office address for 
+
+Seattle Design Commission" area-expanded="false" aria-controls="footerOffice">Office</button>
                                     <span>| </span>
-                                    <button class="addressPopout" role="button" data-toggle="collapse" href="#footerMailing" title="Expand the mailing address for Seattle Design Commission" area-expanded="false" aria-controls="footerMailing">Mailing</button>
+                                    <button class="addressPopout" role="button" data-toggle="collapse" href="#footerMailing" title="Expand the 
+
+mailing address for Seattle Design Commission" area-expanded="false" aria-controls="footerMailing">Mailing</button>
             </div>
     </div>
 
@@ -127,7 +352,7 @@ WA
                 </div>
             </div>
         </div>
-        </footer>
+    </footer>
 
 
 
@@ -161,7 +386,8 @@ WA
     </div> 
     </div>
 </footer>
+ 
+
+
 
 </body>
-
-
